@@ -2,4 +2,4 @@
 
 # @param {String[]} a
 # @return {Integer}
-def num_special_equiv_groups(a) end
+def num_special_equiv_groups(a); end
